@@ -35,7 +35,7 @@ A churn indicator (target variable)
 
 This dataset is well-suited for classification-based churn modeling and business analysis.
 
-## 5️⃣ Postdictive Analysis
+## Postdictive Analysis
 
 Predicted churn outcomes were compared against actual churn to assess model performance.
 
