@@ -35,7 +35,7 @@ A churn indicator (target variable)
 
 This dataset is well-suited for classification-based churn modeling and business analysis.
 
-##5️⃣ Postdictive Analysis
+## 5️⃣ Postdictive Analysis
 
 Predicted churn outcomes were compared against actual churn to assess model performance.
 
@@ -59,7 +59,7 @@ Practical insights into customer behavior patterns
 
 Clear pathways for improving retention strategies
 
-##🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Python
 
@@ -71,7 +71,7 @@ Scikit-learn
 
 Jupyter Notebook
 
-##🚀 Future Improvements
+## 🚀 Future Improvements
 
 Incorporate time-series features for behavior trends
 
@@ -81,7 +81,7 @@ Add customer support and pricing data
 
 Deploy the model via an API or dashboard
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 Chiemelie Onu
 AI / Machine Learning Engineer
